@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Mar 06 11:51:03 EST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0195-6c5e-2392-00000d7e3868 
+on database directory C:\Users\jimmy\OneDrive - SUNY Brockport\MCC\CSC225\FinalProject\SneakerDatabase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@65b3120a 
+Loaded from file:/C:/Users/jimmy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=23.0.2+7-58
+user.dir=C:\Users\jimmy\OneDrive - SUNY Brockport\MCC\CSC225\FinalProject
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Mar 06 11:51:12 EST 2025: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Mar 06 11:51:12 EST 2025:
+Shutting down instance a816c00e-0195-6c5e-2392-00000d7e3868 on database directory C:\Users\jimmy\OneDrive - SUNY Brockport\MCC\CSC225\FinalProject\SneakerDatabase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@65b3120a 
+----------------------------------------------------------------
